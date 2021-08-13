@@ -25,12 +25,7 @@ Join our [Discord Server](https://discord.cloudnetservice.eu) to get support thr
 or in the community support channel.  
 You can also create an [Issue on GitHub](https://github.com/CloudNetService/CloudNet-v3/issues/new/choose) if you need help.
 
-## Contribute {#contribute}
-
-We are pleased about every contribution made. Feel free to open a Pull-Request for any changes you would like to make.  
-If you need any inspiration, you can have a look at the [open issues](https://github.com/CloudNetService/CloudNet-v3/issues)!  
-Please do not hesitate to contact us if you have any questions!
-
+## Contribute {#contribu
 A special thank-you goes to all the contributors of the CloudNet v3 Projects:
 <a href="https://github.com/CloudNetService/CloudNet-v3/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=CloudNetService/CloudNet-v3" alt="Contributors"/>
